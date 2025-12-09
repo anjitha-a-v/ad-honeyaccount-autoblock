@@ -76,5 +76,5 @@ This project simulates how **real SOC teams detect and automatically respond to 
 
 ##  Author
 
-**Anjitha**  
+**Anjitha A V**  
 Aspiring SOC / Blue-Team / Cybersecurity Analyst  
