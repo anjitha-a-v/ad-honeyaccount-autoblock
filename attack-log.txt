@@ -1,0 +1,8 @@
+2025-12-06T21:24:31 - ===== Honey watcher started for user 'honey.admin' =====
+2025-12-07T02:13:13 - ===== Honey watcher started for user 'honey.admin' =====
+2025-12-08T22:07:41 - ===== Honey watcher started for user 'honey.admin' =====
+2025-12-08T22:22:12 - ===== Honey watcher (AUTO-DISABLE) started for 'honey.admin' =====
+2025-12-08T22:22:12 - FAILED logon on HONEY USER 'honey.admin' from IP ::1. Reason: %%2313. RecordId=4686
+2025-12-08T22:22:12 - AUTO-ACTION: Disabled honey user account 'honey.admin'.
+2025-12-08T22:22:12 - FAILED logon on HONEY USER 'honey.admin' from IP ::1. Reason: %%2313. RecordId=4709
+2025-12-08T22:22:13 - Honey user 'honey.admin' is already disabled. No further action.
